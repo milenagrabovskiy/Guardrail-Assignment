@@ -11,5 +11,3 @@ Install dependencies:
 
 # Tests command
     pytest
-
-# Sa
